@@ -1,7 +1,5 @@
-
-medicare-backend
-│
-├── admin
+medicare-backend/
+├── admin/
 │   ├── add-medicine.php
 │   ├── categories.php
 │   ├── dashboard.php
@@ -9,18 +7,18 @@ medicare-backend
 │   ├── orders.php
 │   └── ...
 │
-├── backend
-│   ├── admin
-│   ├── auth
-│   ├── cart
-│   ├── categories
-│   ├── config
-│   ├── medicines
-│   ├── orders
-│   ├── payment
-│   └── profile
+├── backend/
+│   ├── admin/
+│   ├── auth/
+│   ├── cart/
+│   ├── categories/
+│   ├── config/
+│   ├── medicines/
+│   ├── orders/
+│   ├── payment/
+│   └── profile/
 │
-├── database
+├── database/
 │   └── medicine_store.sql
 │
 └── .gitignore
